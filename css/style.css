@@ -108,7 +108,7 @@ body {
 
 .navbar-default {
   border-color: transparent;
-  background-color: #dadada;
+  background-color: #FFF100;
 }
 
 .navbar-toggle {
@@ -117,12 +117,16 @@ body {
 }
 
 .navbar-default .navbar-nav>li>a:hover {
+<<<<<<< HEAD
   background-color: #e7e7e7 !important;
+=======
+  background-color: hotpink !important;
+>>>>>>> e75b48b4b271b52e67ef404588f9d60f5ae77e0f
   color: #555 !important;
 }
 
 .navbar-default li.active a {
-  background-color: #16a085 !important;
+  background-color: hotpink !important;
   color: #fff !important;
 }
 
@@ -260,7 +264,11 @@ a:before, a:after {
    ========================================================================== */
 
 #headerwrap {
+<<<<<<< HEAD
   background: url(../img/header_bg.jpg) no-repeat center top;
+=======
+  background: url(../img/homepage.png) no-repeat center top;
+>>>>>>> e75b48b4b271b52e67ef404588f9d60f5ae77e0f
   margin-top: -50px;
   padding-top: 120px;
   text-align: center;
@@ -279,7 +287,7 @@ a:before, a:after {
 }
 
 #headerwrap h1 {
-  color: #ffffff;
+  color: #FFF100;
   margin-top: 90px;
   padding-bottom: 30px;
   letter-spacing: 8px;
