@@ -1,4 +1,4 @@
-Thanks for downloading this template!
+hanks for downloading this template!
 
 Template Name: Dot
 Template URL: https://templatemag.com/dot-bootstrap-agency-template/
