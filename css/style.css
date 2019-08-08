@@ -76,6 +76,12 @@ html, body {
   height: 100%;
 }
 
+.about {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+
 body {
   font-family: "Lato";
   font-weight: 300;
